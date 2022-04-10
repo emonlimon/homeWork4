@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    overflow: auto;
+    margin: auto;
+}
+body{
+    font-family: sans-serif;
+}
+.main {
+    background: #273c75;
+    color: white;
+}
+
+h1.ewl_head {
+    background: #00a8ff;
+    text-align: center;
+    font-size: 50px;
+    text-transform: capitalize;
+    padding: 20px;
+}
+
+p.paragaraph_1 {
+    font-size: 30px;
+    background: #44bd32;
+    padding: 89px;
+    line-height: 40px;
+    font-style: italic;
+    text-align: justify;
+}
+
+p.paragaraph_2 {
+    background: #f5f6fa;
+    color: black;
+    padding: 38px 120px;
+    font-size: 50px;
+    line-height: 70px;
+    text-align: justify;
+    font-family: 'Beau Rivage', sans-serif;
+}
